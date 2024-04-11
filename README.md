@@ -31,5 +31,5 @@ This repository contains the source code and data files for a data analysis proj
 
 
 ## Acknowledgements
-- The London bike-sharing data used in this project is sourced from Kaggle.
+- The London bike-sharing data used in this project is sourced from Kaggle (https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
 - Inspiration or code snippets may have been taken from various online resources, which are credited appropriately in the code files.
